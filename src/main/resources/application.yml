@@ -5,7 +5,7 @@ spring:
   application:
     name: spirng-bobo
   activemq:
-    broker-url: tcp://172.18.3.55:61616
+    broker-url: tcp://localhost:61616
     user: admin
     password: admin
     pool:
